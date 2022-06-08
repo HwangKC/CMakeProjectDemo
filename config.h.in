@@ -1,0 +1,3 @@
+#cmakedefine USE_MYMATH
+#define CMakeProjectDemo_VERSION_MAJOR @CMakeProjectDemo_VERSION_MAJOR@
+#define CMakeProjectDemo_VERSION_MINOR @CMakeProjectDemo_VERSION_MINOR@

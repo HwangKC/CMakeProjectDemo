@@ -1,0 +1,4 @@
+D:/Workspace/projects/General/CMakeProjectDemo/output/bin/CMakeProjectDemo.exe
+D:/Workspace/projects/General/CMakeProjectDemo/output/include/config.h
+D:/Workspace/projects/General/CMakeProjectDemo/output/bin/MathFunctions.lib
+D:/Workspace/projects/General/CMakeProjectDemo/output/include/MathFunctions.h
